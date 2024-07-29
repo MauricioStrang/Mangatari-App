@@ -5,7 +5,9 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <h1>Mangatari page
+        <h1>
+          
+          Mangatari page by Fernanfer12 and MaurieX
         
         </h1>
       </div>
