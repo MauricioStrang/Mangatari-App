@@ -8,7 +8,7 @@ export default function Home() {
         <h1>
           
           Mangatari page by Fernanfer12 and MaurieX
-        
+          fer didn't show up
         </h1>
       </div>
     </main>
